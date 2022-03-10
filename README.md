@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LordOfSmores
 - 👀 I’m interested in ...
 -       Getting a job
+-       Learning
 -       Practicing
 - 🌱 I’m currently learning ...
 -       Python
