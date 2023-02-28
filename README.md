@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlecVail
 - 👀 I’m interested in ...
--       Getting a job
+-       Getting a job in the Data Science Sector
 -       Learning
 -       Creating/Finishing Projects
 - 🌱 I’m currently learning ...
