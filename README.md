@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @AlecVail
 - 👀 I’m interested in ...
--       Getting a job in the Data Science Sector
+-       Continuing my Analyst journey to become a Data Scientist
 -       Learning
 -       Creating/Finishing Projects
 - 🌱 I’m currently learning ...
 -       R
--       Python
 -       Statistical Analysis
 -       Machine Learning
 - 💞️ I’m looking to collaborate on ...
--       Data Science Projects
+-       Statistics Projects
 -       Theory and Forecasting Projects
 -       Data Visualization Projects
 - 📫 How to reach me ...
